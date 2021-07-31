@@ -1,5 +1,5 @@
 # key-typer
-This is a low budget key that you can use to type strong passwords on programs like [KeePassXC](https://keepassxc.org/) (or whatever you want it), so you don't need to memorize all your huge password!
+This is a low budget key that you can use to type strong passwords on programs like [KeePassXC](https://keepassxc.org/) (or whatever you want it), so you don't need to memorize all your huge password! PLEASE, it's a totally home made solution to speed up typing and avoid to memorize huge chars sequence. So, keep with you and avoid sharing with others.
 
 ## Example
 https://user-images.githubusercontent.com/5191469/127747313-98214d72-8aab-4915-aec1-d4112b43d0e3.mp4
