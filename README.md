@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/5191469/127747313-98214d72-8aab-4915-a
 ## Step by step
 Please, follow these videos:
 
-- https://www.youtube.com/watch?v=tvqA-JcTQNg&t=75s&pp=sAQA
-- https://www.youtube.com/watch?v=j05vj8zRP1o&t=20s&pp=sAQA
+- https://www.youtube.com/watch?v=tvqA-JcTQNg
+- https://www.youtube.com/watch?v=j05vj8zRP1o
 
 If you have any hard time to work with Flip on Windows 10, you can download from [here](http://77.161.176.191/domoticx/software/atmel_flip/JRE%20-%20Flip%20Installer%20-%203.4.7.112.exe.7z) or go to the official [website](https://www.microchip.com/developmenttools/ProductDetails/flip).
