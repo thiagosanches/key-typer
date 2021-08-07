@@ -1,6 +1,7 @@
 # key-typer
 This is a low budget key that you can use to type strong passwords on programs like [KeePassXC](https://keepassxc.org/) (or whatever you want it), so you don't need to memorize all your huge password! 
 
+## Arduino Uno
 **Important: This is a totally home made solution to speed up typing huge chars' sequence. So, keep with you and avoid sharing with others.**
 
 ## Example
@@ -17,3 +18,6 @@ Please, follow these videos:
 - https://www.youtube.com/watch?v=j05vj8zRP1o
 
 If you are having a hard time to work with Flip on Windows 10, you can download from [here](http://77.161.176.191/domoticx/software/atmel_flip/JRE%20-%20Flip%20Installer%20-%203.4.7.112.exe.7z) or try it from the official [website](https://www.microchip.com/developmenttools/ProductDetails/flip).
+
+## Arduino Pro Micro
+If you have this board, you just need to use the [`my-key.ino`](my-key.ino) file and you should be good.
