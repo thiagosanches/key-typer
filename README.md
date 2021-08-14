@@ -27,3 +27,6 @@ If you have this board, you just need to use the [`my-key.ino`](my-key.ino) file
 ![image](https://user-images.githubusercontent.com/5191469/129447372-876affb3-a84d-4f7e-87dc-ece1b1d8ab26.png)
 
 ![image](https://user-images.githubusercontent.com/5191469/129447396-2f651fa3-3a1c-441f-b5f6-c24d0891b442.png)
+
+![image](https://user-images.githubusercontent.com/5191469/129447422-58629a50-3396-487d-b192-441bcdfd66f9.png)
+
