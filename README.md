@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/5191469/129447638-f38a4c6a-4b9e-44cd-9eda-923d561e44ac.mp4
+
 # key-typer
 This is a low budget key that you can use to type strong passwords on programs like [KeePassXC](https://keepassxc.org/) (or whatever you want it), so you don't need to memorize all your huge password! 
 
@@ -25,6 +29,10 @@ If you have this board, you just need to use the [`my-key.ino`](my-key.ino) file
 
 ## 
 ![image](https://user-images.githubusercontent.com/5191469/129447372-876affb3-a84d-4f7e-87dc-ece1b1d8ab26.png)
+
+
+https://user-images.githubusercontent.com/5191469/129447648-0be42227-13fe-475b-8f67-075fe7171cfd.mp4
+
 
 ![image](https://user-images.githubusercontent.com/5191469/129447396-2f651fa3-3a1c-441f-b5f6-c24d0891b442.png)
 
