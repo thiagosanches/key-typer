@@ -32,6 +32,5 @@ void loop() {
     Keyboard.press(KEY_RETURN);
     Keyboard.releaseAll();
   }
-
   delay(250);
 }
